@@ -1,0 +1,29 @@
+= Assignment 02
+
+== Task -- Sorting
+
+Write tests for `1-sorting.py`. Try to get as many corner cases you can think of.
+Make sure to test if it throws the exceptions correctly.
+
+Remember to commit and push your work.
+
+== Task -- Sorting, again.
+
+Write a sorting algorithm for general objects (that support `<` and `==`).
+
+*Note*: Start with the tests. Make sure to cover all cases. Then write the algorithm, and run the tests
+frequently.
+
+== Homework
+
+Find one open source project, and fix something in it. Send me the link of your pull request.
+
+Note:
+
+* There are *a lot* of open source projects on https://github.com[GitHub].
+** *Almost* any repository you can read is "open source".
+* "Anything" includes typos, spelling mistakes, adding/rewriting documentation, but also writing code.
+** A lot of projects have a "starter" or "beginner" tag for issues. Look for those.
+* Don't be afraid to talk to the people managing the project!
+* Example of a "beginner PR": https://github.com/tensorflow/tensorflow/pull/5192
+

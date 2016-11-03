@@ -1,0 +1,28 @@
+= udi-02
+
+== Goals
+
+* Revise Git & GitHub.
+* Fork/Pull Request model + get to know Open Source.
+* Python 3
+* Testing, TDD.
+
+== Tasks
+
+* Check you have Git installed and configured on your machine.
+* link:assignment.adoc[Solve the assignment]
+** Commit early, commit often.
+** Backup your work! (`git push`)
+* Push and notify me that you're done.
+
+== Feedback
+
+Please, fill in the https://docs.google.com/forms/d/e/1FAIpQLSfLlosqmgiz9rvGV4zFKkvHpwwxB9sDYJus_tlZN2nGIOLEew/viewform[feedback form].
+
+== Notes
+
+* https://classroom.github.com/classrooms/22538385-gymy-16[Our classroom]
+* https://github.com/GYMY-16[Our organization]
+* https://git-scm.com/downloads[Git]
+* https://github.com/[GitHub]
+
